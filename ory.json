@@ -1,12 +1,12 @@
 {
-    "version": "0.0.53",
+    "version": "0.0.55",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ory/cli/releases/download/v0.0.53/ory_0.0.53_windows_64-bit.zip",
+            "url": "https://github.com/ory/cli/releases/download/v0.0.55/ory_0.0.55_windows_64-bit.zip",
             "bin": [
                 "ory.exe"
             ],
-            "hash": "5c151dadaec43377cc7c6f1281ef3bd7c06b9f738a590f42604ad4f3ef331c45"
+            "hash": "1216e79d6cbe57864dd37d1f98f7caf27a63d6676c482b9d0a50f7ba6df70466"
         }
     },
     "homepage": "https://www.ory.sh"
